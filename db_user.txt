@@ -1,0 +1,14 @@
+Administrator,Admin,asd,123
+Student,Daniel,danwan,123,test,test
+Teacher,Pro chen,chen,123
+Staff,staff,staff,123
+Student,Jasmine,Yuan0103,Yuan0103
+Teacher,coolshan,Joey0201,Joey0201,it's my life
+Staff,EN,Sunny0529,Sunny0529
+Administrator,elephant,Tsai0429,Tsai0429
+Administrator,pattysu,Patty1203,Patty1203
+Administrator,Yao,Peter0922,Peter0922
+Staff,Alice,Alice1229,Alice1229
+Administrator,Kevin,Kevin0725,Kevin0725
+Administrator,a,a,A123456789
+Administrator,aa,d,A123456789
